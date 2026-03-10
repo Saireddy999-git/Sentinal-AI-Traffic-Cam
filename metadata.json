@@ -1,0 +1,7 @@
+{
+  "name": "SentinelAI - Helmet Detection",
+  "description": "Smart city surveillance dashboard for real-time motorcycle helmet detection using Computer Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
